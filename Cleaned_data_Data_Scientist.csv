@@ -1,0 +1,123 @@
+index1,company_name,job_title,salary_range,rating,location,joblcode,size,founded,typeofo,industry,lowersal,uppersal,avgsal,age,python,aws,excel,sql1,tableau,bi
+1,"Tecolote Research    ","Data Scientist"," $53K-$91K  ",4,Albuquerque," NM","501 - 1000",1973,"Company - Private","Aerospace & Defense",53,91,72,49,1,0,1,0,1,1
+2,"University of Maryland Medical System    ","Healthcare Data Scientist"," $63K-$112K ",3,Linthicum," MD",10000+,1984,"Other Organization","Health Care Services & Hospitals",63,112,88,38,1,0,0,0,0,0
+3,"KnowBe     ","Data Scientist"," $80K-$90K  ",5,Clearwater," FL","501 - 1000",2010,"Company - Private","Security Services",80,90,85,12,1,0,1,1,0,0
+4,"Affinity Solutions    ","Data Scientist"," $86K-$143K ",3,"New York"," NY","51 - 200",1998,"Company - Private","Advertising & Marketing",86,143,115,24,1,0,1,1,0,0
+5,"CyrusOne    ","Data Scientist"," $71K-$119K ",3,Dallas," TX","201 - 500",2000,"Company - Public","Real Estate",71,119,95,22,1,1,1,1,0,1
+6,"ClearOne Advantage    ","Data Scientist"," $54K-$93K  ",4,Baltimore," MD","501 - 1000",2008,"Company - Private","Banks & Credit Unions",54,93,74,14,0,0,1,0,0,0
+7,"Logic         ","Data Scientist"," $86K-$142K ",4,"San Jose"," CA","201 - 500",2005,"Company - Private",Consulting,86,142,114,17,1,1,1,1,0,0
+9,"Wish    ","Data Scientist"," $126K-$201 ",4,"San Jose"," CA","501 - 1000",2011,"Company - Private","Other Retail Stores",126,201,164,11,1,0,0,0,0,0
+10,"ManTech    ","Data Scientist"," $64K-$106K ",4,Chantilly," VA","5001 - 10000",1968,"Company - Public","Research & Development",64,106,85,54,0,0,0,1,0,0
+11,"Walmart    ","Staff Data Scientist - Technology"," $106K-$172 ",3,Plano," TX",10000+,1962,"Company - Public","Department, Clothing, & Shoe Stores",106,172,139,60,0,0,0,1,0,0
+12,"Yesler    ","Data Analyst"," $46K-$85K  ",4,Seattle," WA","201 - 500",2012,"Company - Private","Advertising & Marketing",46,85,66,10,1,1,1,1,1,1
+14,"Audible    ","Data Engineer I"," $102K-$190K ",4,Newark," NJ","1001 - 5000",1995,"Subsidiary or Business Segment","Motion Picture Production & Distribution",102,190,146,27,0,0,1,0,0,0
+18,"Pinnacol Assurance    ","Data Scientist"," $64K-$111K ",4,Denver," CO","501 - 1000",1915,"Nonprofit Organization","Insurance Carriers",64,111,88,107,1,0,1,1,0,0
+20,"Health IQ    ","Senior Data Scientist / Machine Learning"," $73K-$119K ",4,Dallas," TX","201 - 500",2013,"Company - Private","Insurance Agencies & Brokerages",73,119,96,9,0,0,1,0,0,0
+25,"First Tech Federal Credit Union    ","Data Scientist"," $75K-$124K ",4,Hillsboro," OR","1001 - 5000",1952,"Company - Private","Banks & Credit Unions",75,124,100,70,1,1,1,1,1,0
+26,"The Hanover Insurance Group    ","Associate Data Analyst"," $34K-$61K  ",4,Worcester," MA","5001 - 10000",1852,"Company - Public","Insurance Carriers",34,61,48,170,0,0,1,0,0,0
+28,"KnowBe     ","Data Scientist"," $80K-$90K  ",5,Clearwater," FL","501 - 1000",2010,"Company - Private","Security Services",80,90,85,12,1,0,1,1,0,0
+30,"Amrock    ","Data Scientist"," $72K-$120K ",4,Detroit," MI","1001 - 5000",1997,"Company - Private","Real Estate",72,120,96,25,1,0,0,1,0,0
+32,"Juniper Networks    ","Data Scientist"," $93K-$149K ",4,Sunnyvale," CA","5001 - 10000",1996,"Company - Public","Telecommunications Services",93,149,121,26,1,0,1,1,0,0
+36,"Systems   Technology Research    ","Data Scientist"," $83K-$137K ",5,Woburn," MA","201 - 500",2010,"Company - Private","Aerospace & Defense",83,137,110,12,1,0,1,1,0,0
+38,"Lancer Insurance    ","Data Engineer"," $74K-$138K ",4,"Long Beach"," NY","201 - 500",1985,"Company - Private","Insurance Carriers",74,138,106,37,1,0,1,1,0,0
+41,"Edgewell Personal Care    ",Scientist," $52K-$113K ",3,Allendale," NJ","5001 - 10000",2015,"Company - Public","Consumer Products Manufacturing",52,113,83,7,0,1,0,0,0,0
+42,"Equity Residential    ","Senior Data Scientist"," $110K-$150 ",4,Chicago," IL","1001 - 5000",1993,"Company - Public","Real Estate",110,150,130,29,1,0,1,1,1,1
+47,"Zimmerman Advertising    ","Data Scientist"," $68K-$114K ",4,"Fort Lauderdale"," FL","501 - 1000",1984,"Subsidiary or Business Segment","Advertising & Marketing",68,114,91,38,1,0,1,1,1,0
+48,"Liberty Mutual Insurance    ","Data Scientist, Office Of Data Science"," $86K-$143K ",3,Boston," MA",10000+,1912,"Company - Private","Insurance Carriers",86,143,115,110,1,0,0,0,0,0
+49,"Torch Technologies  Inc     ","Data Science Analyst"," $41K-$95K  ",5,Huntsville," AL","1001 - 5000",2002,"Company - Private","Aerospace & Defense",41,95,68,20,1,0,1,0,1,0
+50,"Swiss Re    ","Data Scientist"," $86K-$144K ",4,Armonk," NY",10000+,1863,"Company - Public","Insurance Agencies & Brokerages",86,144,115,159,1,0,1,1,0,0
+51,"Northrop Grumman    ","Data Scientist"," $80K-$139K ",4,"San Diego"," CA",10000+,1939,"Company - Public","Aerospace & Defense",80,139,110,83,0,0,1,1,1,0
+55,"ClearOne Advantage    ","Data Scientist"," $54K-$93K  ",4,Baltimore," MD","501 - 1000",2008,"Company - Private","Banks & Credit Unions",54,93,74,14,0,0,1,0,0,0
+56,"CyrusOne    ","Data Scientist"," $71K-$119K ",3,Dallas," TX","201 - 500",2000,"Company - Public","Real Estate",71,119,95,22,1,1,1,1,0,1
+57,"The David J  Joseph Company    ","Senior Data Scientist"," $82K-$132K ",4,Cincinnati," OH","201 - 500",1885,"Subsidiary or Business Segment","Metals Brokers",82,132,107,137,1,1,0,1,1,1
+58,"USEReady    ","Data Scientist"," $84K-$146K ",4,"New York"," NY","201 - 500",2011,"Company - Private",Consulting,84,146,115,11,1,1,0,1,1,0
+59,"Bill com    ","Senior Risk Data Scientist"," $107K-$172 ",4,"Palo Alto"," CA","501 - 1000",2006,"Company - Public","Financial Transaction Processing",107,172,140,16,0,0,0,1,0,0
+61,"DICK S Sporting Goods   Corporate    ","Data Scientist"," $61K-$109K ",4,Coraopolis," PA",10000+,1948,"Company - Public","Sporting Goods Stores",61,109,85,74,1,0,0,1,0,0
+64,"C Space    ","Data Scientist - Research"," $41K-$72K  ",3,Boston," MA","201 - 500",1999,"Company - Public","Advertising & Marketing",41,72,57,23,1,0,0,1,1,0
+67,"Grainger    ","Director, Data Science"," $139K-$220 ",4,"Lake Forest"," IL",10000+,1927,"Company - Public",Wholesale,139,220,180,95,1,0,1,1,0,0
+68,"EAG Laboratories    ",Scientist," $50K-$102K ",3,"Maryland Heights"," MO","501 - 1000",1978,"Subsidiary or Business Segment","Research & Development",50,102,76,44,0,0,1,0,0,0
+70,"Carmeuse    ","Data Scientist"," $74K-$122K ",3,Pittsburgh," PA","1001 - 5000",1860,"Company - Private",Mining,74,122,98,162,1,0,0,0,0,0
+74,"Peraton    ","Data Scientist"," $83K-$137K ",3,Chantilly," VA","1001 - 5000",2017,"Company - Private","Aerospace & Defense",83,137,110,5,1,0,1,0,0,0
+76,"Nurx    ","Data Scientist"," $94K-$154K ",4,"San Francisco"," CA","51 - 200",2016,"Company - Private","Health Care Services & Hospitals",94,154,124,6,1,0,0,1,0,0
+77,"webfx com    ","Jr. Business Data Analyst"," $37K-$76K  ",5,Harrisburg," PA","201 - 500",1997,"Company - Private","Advertising & Marketing",37,76,57,25,0,0,1,0,0,0
+80,"Excella Consulting    ","Data Engineer"," $60K-$114K ",4,Arlington," VA","201 - 500",2002,"Company - Private",Consulting,60,114,87,20,1,1,1,1,0,0
+81,"Gensco    ","Data Analyst"," $39K-$68K  ",4,Tacoma," WA","501 - 1000",1948,"Company - Private",Wholesale,39,68,54,74,0,0,1,0,0,0
+82,"Walmart    ","Staff Data Scientist - Technology"," $106K-$172 ",3,Plano," TX",10000+,1962,"Company - Public","Department, Clothing, & Shoe Stores",106,172,139,60,0,0,0,1,0,0
+83,"Logic         ","Data Scientist"," $86K-$142K ",4,"San Jose"," CA","201 - 500",2005,"Company - Private",Consulting,86,142,114,17,1,1,1,1,0,0
+88,"TransUnion    ","Insurance Data Scientist"," $64K-$106K ",4,Atlanta," GA","5001 - 10000",1968,"Company - Public","Financial Analytics & Research",64,106,85,54,1,0,0,1,0,0
+92,"MITRE    ","Data Scientist"," $72K-$123K ",3,McLean," VA","5001 - 10000",1958,"Nonprofit Organization","Federal Agencies",72,123,98,64,1,0,1,1,1,1
+94,"DentaQuest    ","Data Analyst"," $40K-$73K  ",3,Milwaukee," WI","1001 - 5000",2001,"Company - Private","Insurance Carriers",40,73,57,21,0,0,1,1,0,0
+96," Park Data    ","Data Scientist"," $89K-$153K ",4,"New York"," NY","51 - 200",2012,"Company - Private","Research & Development",89,153,121,10,1,0,0,0,0,0
+97,"Rapid Response Monitoring    ","Data Scientist"," $61K-$110K ",5,Syracuse," NY","501 - 1000",1992,"Company - Private","Security Services",61,110,86,30,1,0,0,1,0,0
+98,"Trilogy Ed    ","Data Scientist, Rice University"," $65K-$110K ",4,Houston," TX","1001 - 5000",2015,"Subsidiary or Business Segment","Education Training Services",65,110,88,7,1,0,0,1,0,0
+99,"Gallup    ","Senior Data Scientist"," $200K-$275 ",4,Washington," DC","1001 - 5000",1935,"Company - Private",Consulting,200,275,238,87,1,0,1,0,0,0
+101,"American Axle   Manufacturing    ","Senior Data Scientist"," $80K-$129K ",3,Southfield," MI",10000+,1994,"Company - Public","Transportation Equipment Manufacturing",80,129,105,28,1,1,1,1,0,1
+104,"Boys Town Hospital    ","Research Scientist"," $38K-$85K  ",3,Omaha," NE","1001 - 5000",1977,Hospital,"Health Care Services & Hospitals",38,85,62,45,0,0,1,0,0,0
+112,"DrFirst    ","Data Scientist"," $82K-$133K ",3,Rockville," MD","201 - 500",2000,"Company - Private","Health Care Services & Hospitals",82,133,108,22,1,0,0,0,0,0
+113,"Object Partners    ","Data Engineer"," $65K-$125K ",5,Minneapolis," MN","51 - 200",1996,"Company - Private",Consulting,65,125,95,26,0,1,0,1,0,0
+114,"L A  Care Health Plan    ","Data Scientist Ii"," $91K-$148K ",3,"Los Angeles"," CA","1001 - 5000",1997,"Nonprofit Organization","Health Care Services & Hospitals",91,148,120,25,1,0,0,1,1,0
+115,"Red Ventures    ","Senior Data Engineer"," $95K-$173K ",3,Charlotte," NC","1001 - 5000",2000,"Company - Private","Advertising & Marketing",95,173,134,22,0,1,0,1,0,0
+117,"The E W  Scripps Company    ","Data Scientist"," $80K-$135K ",4,Cincinnati," OH","1001 - 5000",1878,"Company - Public","TV Broadcast & Cable Networks",80,135,108,144,1,0,0,1,1,0
+119,"Equity Residential    ","Data Engineer"," $80K-$105K ",4,Chicago," IL","1001 - 5000",1993,"Company - Public","Real Estate",80,105,93,29,1,0,1,1,0,0
+120,"Synagro    ","Data Analyst"," $43K-$81K  ",2,Baltimore," MD","501 - 1000",1986,"Company - Private","Research & Development",43,81,62,36,0,0,1,1,0,0
+122,"Accuride International    ","Data Scientist"," $82K-$133K ",4,#REF!,,"1001 - 5000",1966,"Company - Private","Industrial Manufacturing",82,133,108,56,0,0,1,0,1,0
+123,"Full Potential Solutions    ","Data Analytics Manager"," $26K-$55K  ",4,"Kansas City"," MO","501 - 1000",2017,"Company - Private","Staffing & Outsourcing",26,55,41,5,1,1,1,1,1,0
+125,"Maven Wave Partners    ","Data Scientist"," $60K-$102K ",4,Chicago," IL","201 - 500",2008,"Company - Private",Consulting,60,102,81,14,1,1,1,1,1,0
+127,"First Command Financial Services  Inc     ","Data Scientist"," $64K-$106K ",3,"Fort Worth"," TX","1001 - 5000",1958,"Company - Private","Brokerage Services",64,106,85,64,1,0,1,1,1,1
+128,"Pharmavite    ","Associate Scientist"," $51K-$112K ",3,Valencia," CA","1001 - 5000",1971,"Company - Private","Consumer Products Manufacturing",51,112,82,51,0,0,1,0,0,0
+130,"Stratagem Group    ","Machine Learning Engineer"," $72K-$129K ",4,Aurora," CO","1 - 50",2007,"Company - Private","Aerospace & Defense",72,129,101,15,1,1,1,1,0,0
+131,"PA Consulting    ","Data Scientist/Ml Engineer"," $71K-$123K ",3,"New York"," NY","1001 - 5000",1943,"Company - Private",Consulting,71,123,97,79,1,0,1,1,1,0
+132,"ManTech    ","Data Scientist"," $64K-$106K ",4,Chantilly," VA","5001 - 10000",1968,"Company - Public","Research & Development",64,106,85,54,0,0,0,1,0,0
+135,"Evolve Vacation Rental    ","Sr. Data Scientist"," $80K-$130K ",4,Denver," CO","201 - 500",2011,"Company - Private","Travel Agencies",80,130,105,11,1,0,0,1,0,0
+136,"Maximus Real Estate Partners    ","Data Analyst - Asset Management"," $71K-$136K ",4,"San Francisco"," CA","51 - 200",2013,"Company - Private","Real Estate",71,136,104,9,0,0,1,1,0,0
+141,"PatientPoint    ","Lead Data Scientist"," $75K-$125K ",4,Cincinnati," OH","201 - 500",1987,"Company - Private","Advertising & Marketing",75,125,100,35,1,0,1,1,0,1
+142,"BlueCross BlueShield of Tennessee    ","Mongodb Data Engineer Ii"," $77K-$136K ",4,Chattanooga," TN","5001 - 10000",1945,"Nonprofit Organization","Insurance Carriers",77,136,107,77,0,0,1,1,1,0
+144,"KnowBe     ","Senior Data Analyst"," $44K-$78K  ",5,Clearwater," FL","501 - 1000",2010,"Company - Private","Security Services",44,78,61,12,1,0,1,1,0,0
+145,"KSM Consulting    ","Senior Spark Engineer (Data Science)"," $65K-$148K ",4,Indianapolis," IN","51 - 200",2008,"Company - Private",Consulting,65,148,107,14,1,1,0,1,0,0
+147,"Church   Dwight    ","Bi & Platform Analytics Manager"," $85K-$134K ",3,Ewing," NJ","1001 - 5000",1846,"Company - Public","Consumer Products Manufacturing",85,134,110,176,1,0,1,0,1,1
+148,"MassMutual    ","Lead Data Scientist"," $124K-$204 ",4,Boston," MA","5001 - 10000",1851,"Company - Private","Insurance Carriers",124,204,164,171,1,1,0,1,0,0
+150,"Juniper Networks    ","Senior Data Scientist"," $110K-$174 ",4,Cupertino," CA","5001 - 10000",1996,"Company - Public","Telecommunications Services",110,174,142,26,1,1,1,0,0,0
+152,"Legal   General America    ","Data Scientist (Actuary, Fsa Or Asa)"," $81K-$133K ",4,Frederick," MD","501 - 1000",1981,"Company - Private","Insurance Carriers",81,133,107,41,1,0,1,1,1,0
+154,"Health IQ    ","Senior Data Scientist / Machine Learning"," $73K-$119K ",4,Dallas," TX","201 - 500",2013,"Company - Private","Insurance Agencies & Brokerages",73,119,96,9,0,0,1,0,0,0
+157,"National Student Clearinghouse    ","Senior Data Analyst"," $43K-$80K  ",3,Herndon," VA","201 - 500",1993,"Nonprofit Organization","Colleges & Universities",43,80,62,29,1,0,1,1,1,1
+159,"State of Wisconsin Investment Board    ","Risk And Analytics It, Data Scientist"," $91K-$149K ",3,Madison," WI","51 - 200",1951,Government,"Investment Banking & Asset Management",91,149,120,71,1,0,0,1,1,1
+162,"OneMagnify    ","Analytics Manager"," $59K-$116K ",4,Dearborn," MI","201 - 500",1967,"Company - Private","Advertising & Marketing",59,116,88,55,0,0,1,1,1,0
+163,"IZEA    ","Data Engineer"," $48K-$95K  ",4,"Winter Park"," FL","51 - 200",2006,"Company - Public","Advertising & Marketing",48,95,72,16,1,1,1,1,0,0
+164,"Vionic Group    ","Digital Marketing & Ecommerce Data Analyst"," $31K-$72K  ",4,"San Rafael"," CA","51 - 200",2006,"Subsidiary or Business Segment","Department, Clothing, & Shoe Stores",31,72,52,16,0,0,1,0,0,0
+168,"Plymouth Rock Assurance    ","Senior Data Scientist"," $73K-$124K ",3,Woodbridge," NJ","1001 - 5000",1982,"Company - Private","Insurance Carriers",73,124,99,40,0,0,1,1,0,0
+172,"Argo Group US    ","Sr. Data Scientist Ii"," $111K-$183 ",3,"New York"," NY","1001 - 5000",1948,"Company - Public","Insurance Carriers",111,183,147,74,1,1,0,1,0,0
+174,"Software Engineering Institute    ","Machine Learning Research Scientist"," $81K-$159K ",3,Pittsburgh," PA","501 - 1000",1984,"College / University","Colleges & Universities",81,159,120,38,1,0,0,0,0,0
+175,"PennyMac    ","Vp, Data Science"," $83K-$166K ",3,Phoenix," AZ","1001 - 5000",2008,"Company - Public",Lending,83,166,125,14,1,0,1,1,0,0
+176,"Zest AI    ","Senior Data Scientist"," $114K-$182 ",4,Burbank," CA","51 - 200",2009,"Company - Private","Financial Analytics & Research",114,182,148,13,1,0,0,0,0,0
+177,"DECISIVE ANALYTICS Corporation    ","Radar Data Analyst"," $42K-$76K  ",5,Huntsville," AL","51 - 200",1996,"Company - Private","Aerospace & Defense",42,76,59,26,1,0,1,0,0,0
+178,"The Hanover Insurance Group    ","Pl Actuarial-Lead Data Scientist"," $114K-$179 ",4,Worcester," MA","5001 - 10000",1852,"Company - Public","Insurance Carriers",114,179,147,170,1,0,1,1,0,0
+188,"Texas Health Huguley Hospital    ","Medical Laboratory Scientist"," $18-$25 Pe ",4,Burleson," TX","1001 - 5000",1977,Hospital,"Health Care Services & Hospitals",37,52,45,45,0,1,0,0,0,0
+190,"Central California Alliance for Health    ","Analytics Manager - Data Mart"," $42K-$86K  ",4,"Scotts Valley"," CA","501 - 1000",1996,"Nonprofit Organization","Health Care Services & Hospitals",42,86,64,26,0,0,0,1,1,0
+191,"Pilot Flying J Travel Centers LLC    ","Sr. Data Engineer - Contract-To-Hire (Java)"," $69K-$127K ",3,Knoxville," TN",10000+,1958,"Company - Private","Gas Stations",69,127,98,64,1,0,0,1,0,0
+197,"Lockheed Martin    ","Data Scientist"," $66K-$112K ",4,Herndon," VA",10000+,1995,"Company - Public","Aerospace & Defense",66,112,89,27,1,0,1,1,1,0
+199,"Fareportal    ","Business Data Analyst, Sql"," $44K-$86K  ",4,"New York"," NY","1001 - 5000",2002,"Company - Private","Travel Agencies",44,86,65,20,0,0,1,1,1,1
+201,"Credera    ","Data Scientist"," $53K-$92K  ",4,Dallas," TX","201 - 500",1999,"Subsidiary or Business Segment",Consulting,53,92,73,23,1,1,1,1,1,1
+202,"KnowBe     ","Senior Data Analyst"," $44K-$78K  ",5,Clearwater," FL","501 - 1000",2010,"Company - Private","Security Services",44,78,61,12,1,0,1,1,0,0
+203,"Church   Dwight    ","Bi & Platform Analytics Manager"," $85K-$134K ",3,Ewing," NJ","1001 - 5000",1846,"Company - Public","Consumer Products Manufacturing",85,134,110,176,1,0,1,0,1,1
+205,"Spectrum Communications and Consulting    ","Data Scientist"," $64K-$111K ",3,Chicago," IL","51 - 200",1992,"Company - Private","Advertising & Marketing",64,111,88,30,0,0,0,1,0,0
+206,"NCSOFT    ","Data Analyst"," $65K-$120K ",3,"San Mateo"," CA","1001 - 5000",1997,"Company - Public","Video Games",65,120,93,25,1,0,1,1,1,0
+207,"MITRE    ","Associate Data Scientist/Computer Scientist"," $60K-$103K ",3,McLean," VA","5001 - 10000",1958,"Nonprofit Organization","Federal Agencies",60,103,82,64,1,0,0,0,0,0
+209,"MassMutual    ","Lead Data Scientist"," $124K-$204 ",4,Boston," MA","5001 - 10000",1851,"Company - Private","Insurance Carriers",124,204,164,171,1,1,0,1,0,0
+211,"Juniper Networks    ","Senior Data Scientist"," $110K-$174 ",4,Cupertino," CA","5001 - 10000",1996,"Company - Public","Telecommunications Services",110,174,142,26,1,1,1,0,0,0
+216,"Legal   General America    ","Data Scientist (Actuary, Fsa Or Asa)"," $81K-$133K ",4,Frederick," MD","501 - 1000",1981,"Company - Private","Insurance Carriers",81,133,107,41,1,0,1,1,1,0
+221,"Systems Evolution Inc     ","Data & Analytics Consultant (Nyc)"," $91K-$138K ",5,"New York"," NY","201 - 500",1992,"Company - Private",Consulting,91,138,115,30,1,0,1,1,1,0
+225,"National Student Clearinghouse    ","Senior Data Analyst"," $43K-$80K  ",3,Herndon," VA","201 - 500",1993,"Nonprofit Organization","Colleges & Universities",43,80,62,29,1,0,1,1,1,1
+226,"comScore    ","Data Scientist"," $74K-$119K ",3,Portland," OR","1001 - 5000",1999,"Company - Public","Advertising & Marketing",74,119,97,23,1,0,0,1,0,0
+227,"SullivanCotter    ","Survey Data Analyst"," $55K-$97K  ",4,Minneapolis," MN","201 - 500",1992,"Company - Private",Consulting,55,97,76,30,1,0,1,1,0,0
+228,"NPD    ","Data Scientist"," $15K-$16K( ",4,"Port Washington"," NY","1001 - 5000",1966,"Company - Private","Research & Development",15,16,16,56,0,0,1,0,0,0
+229,"Bakery Agency    ","Data Scientist"," $61K-$106K ",4,Austin," TX","1 - 50",2010,"Company - Private","Advertising & Marketing",61,106,84,12,1,0,1,1,0,0
+230,"State of Wisconsin Investment Board    ","Risk And Analytics It, Data Scientist"," $91K-$149K ",3,Madison," WI","51 - 200",1951,Government,"Investment Banking & Asset Management",91,149,120,71,1,0,0,1,1,1
+232,"Blue Cross   Blue Shield of Rhode Island    ","Lead Health Data Analyst - Front End"," $74K-$126K ",3,Providence," RI","501 - 1000",1939,"Nonprofit Organization","Insurance Carriers",74,126,100,83,0,1,0,1,0,0
+233,"Boys Town    ","Research Scientist"," $33K-$72K  ",4,Omaha," NE","1001 - 5000",1917,"Nonprofit Organization","Social Assistance",33,72,53,105,0,0,1,0,0,0
+235,"The HSC Health Care System    ","Junior Data Analyst"," $37K-$63K  ",3,Washington," DC","501 - 1000",1883,"Nonprofit Organization","Health Care Services & Hospitals",37,63,50,139,0,0,1,1,1,1
+236,"Pro Sphere Tek    ","Sql Data Engineer"," $67K-$119K ",3,Austin," TX","201 - 500",2006,"Company - Private",Consulting,67,119,93,16,1,1,0,1,1,1
+237,"Ameritas Life Insurance Corp    ","Data Scientist"," $72K-$117K ",3,Cincinnati," OH","1001 - 5000",1887,"Company - Private","Insurance Agencies & Brokerages",72,117,95,135,1,0,0,1,0,0
+239,"Genworth    ","Data Scientist"," $78K-$126K ",4,Raleigh," NC","1001 - 5000",2004,"Company - Public","Insurance Carriers",78,126,102,18,1,1,1,1,1,0
+241,"OneMagnify    ","Analytics Manager"," $59K-$116K ",4,Dearborn," MI","201 - 500",1967,"Company - Private","Advertising & Marketing",59,116,88,55,0,0,1,1,1,0
+244,"IZEA    ","Data Engineer"," $48K-$95K  ",4,"Winter Park"," FL","51 - 200",2006,"Company - Public","Advertising & Marketing",48,95,72,16,1,1,1,1,0,0
+245,"Trace Data    ","Data Scientist"," $83K-$133K ",4,Oakland," CA","51 - 200",2000,"Company - Private","Insurance Carriers",83,133,108,22,1,0,0,1,0,0
