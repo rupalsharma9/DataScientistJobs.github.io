@@ -22,3 +22,6 @@ MySQL workbench was used in this project for data exploration purpose. Using MyS
 3. Tableau :
 The MySQL database was then connected with tableau to make dashboards and different visualisation using the data.
 
+TABLEAU VISUALIZATION :
+https://public.tableau.com/app/profile/rupal.sharma6886/viz/datascience_jobs_skills_and_salary/Story1
+
